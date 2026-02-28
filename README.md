@@ -1,9 +1,7 @@
-
-Yoext to Avatar System (Academic Project)
 📌 Project Description
-The Voice-Based Text to Avatar System is an academic project developed earlier to demonstrate speech-to-text processing, external file mapping, and GIF-based avatar responses.
+ The Voice-Based Text to Avatar System is an academic project developed earlier to demonstrate speech-to-text processing, external file mapping, and GIF-based avatar responses.
 
-The system converts user voice input into text, matches the recognized text with predefined keywords stored in an external .txt file, and displays the corresponding GIF avatar.
+ The system converts user voice input into text, matches the recognized text with predefined keywords stored in an external .txt file, and displays the corresponding GIF avatar.
 
 🎯 Project Objective
 To convert voice input into text using a voice model
